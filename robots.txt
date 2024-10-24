@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://roberttwomey.github.io/cohab-lab-2/sitemap.xml
+Sitemap: https://roberttwomey.github.io/sitemap.xml
